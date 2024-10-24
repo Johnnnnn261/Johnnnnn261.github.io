@@ -7,19 +7,19 @@ h1, h2, h3 {
 }
 
 body {
-    background-color: #f9f9f9; /* Light background color */
-    color: #333; /* Darker text color for readability */
+    background-color: #f9f9f9;
+    color: #333;
 }
 
 nav a {
-    color: #007bff; /* Blue links */
+    color: #007bff;
     text-decoration: none;
     padding: 5px 10px;
     font-weight: bold;
 }
 
 nav a:hover {
-    color: #ff5733; /* Orange color on hover */
+    color: #ff5733;
 }
 
 section {
