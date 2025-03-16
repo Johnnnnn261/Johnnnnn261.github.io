@@ -1,1 +1,1 @@
-This repo is the CSS customization based on the HTML coding for DS4200 Webpage Interactive Visualization Project
+This repo is a demo of coding personal website using HTML with CSS customization
